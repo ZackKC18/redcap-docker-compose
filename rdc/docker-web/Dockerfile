@@ -1,4 +1,4 @@
-FROM php:7.3-apache
+FROM php:7.3-apache-buster
 # I see there is now php:7.3-apache and 7.4 is a release candidate
 ## https://hub.docker.com/_/php/
 
